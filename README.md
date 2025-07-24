@@ -16,9 +16,9 @@
     <td style="width: 50%; padding: 30px; background-color: #1a1a1a; border-radius: 15px; box-shadow: 0 6px 20px rgba(255, 0, 127, 0.3);">
       <h3 align="center" style="color: #FF007F; font-size: 2.2em; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 2px;">Sobre Mim</h3>
       <p align="justify" style="font-size: 1.2em; color: #E8E8E8; line-height: 1.8; font-family: 'Roboto Mono', monospace;">
-        Sou uma programadora iniciante, gosto muito de resolver desafios com código e construir coisas novas. Estou em constante aprendizado, buscando aprimorar minhas habilidades e transformar ideias em realidade digital.
+Sou uma programadora iniciante, gosto muito de resolver desafios com código e construir coisas novas. Estou em constante aprendizado, buscando aprimorar minhas habilidades e transformar ideias em realidade digital.
         <br><br>
-        Atualmente, estou focada em desenvolvimento front-end e explorando novas tecnologias.
+Atualmente, estou focada em desenvolvimento front-end e explorando novas tecnologias.
       </p>
     </td>
     <td style="width: 50%; padding: 30px; background-color: #1a1a1a; border-radius: 15px; box-shadow: 0 6px 20px rgba(255, 0, 127, 0.3);">
