@@ -1,0 +1,48 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: 
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate dynamic README content
+        run: |
+          
+          TIMESTAMP=$(date +%s%N | cut -b1-13)
+
+          
+          README_CONTENT=$(cat README.md)
+
+          
+          UPDATED_README=$(echo "$README_CONTENT" | sed -E "s|(https://github-readme-stats.vercel.app/api\\?username=IsaDaHxra[^&]+)(&cachebuster=PLACEHOLDER_TIMESTAMP_1)?|\1\&cachebuster=$TIMESTAMP|g")
+
+          
+          UPDATED_README=$(echo "$UPDATED_README" | sed -E "s|(https://github-readme-streak-stats.herokuapp.com/\\?user=IsaDaHxra[^&]+)(&cachebuster=PLACEHOLDER_TIMESTAMP_2)?|\1\&cachebuster=$TIMESTAMP|g")
+
+          
+          UPDATED_README=$(echo "$UPDATED_README" | sed -E "s|(https://github-readme-activity-graph.vercel.app/graph\\?username=IsaDaHxra[^&]+)(&cachebuster=PLACEHOLDER_TIMESTAMP_3)?|\1\&cachebuster=$TIMESTAMP|g")
+
+          
+          echo "$UPDATED_README" > README.md
+
+      - name: Commit and Push changes
+        run: |
+         
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          
+          git add README.md
+          
+          
+          git diff --quiet && git diff --staged --quiet || git commit -m "✨ Atualiza estatísticas do README (via GitHub Actions)"
+          
+          
+          git push
