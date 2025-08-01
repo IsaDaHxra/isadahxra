@@ -1,13 +1,11 @@
 <div align="center" style="background-color: #000000; padding: 60px 0; border-bottom: 10px solid #FF007F; border-radius: 0 0 40px 40px; box-shadow: 0 20px 60px rgba(255, 0, 127, 0.9);">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&pause=100&color=FF007F&background=000000&center=true&vCenter=true&width=1100&lines=Oii%C3%AA%2C+me+chamo+Isabelly+%3A);Sou+estudante+da+Germinare+Tech." alt="Banner Animado Isabelly" style="border-radius: 25px; box-shadow: 0 0 60px rgba(255, 0, 127, 1), inset 0 0 30px rgba(255, 182, 193, 0.8); border: 5px solid #FF1493; padding: 30px; margin-bottom: 25px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&pause=100&color=FF007F&background=000000&center=true&vCenter=true&width=1100&lines=Oii%C3%AA%2C+me+chamo+Isabelly+%3A);Sou+estudante+da+Germinare+Tech;Sou+estudante+da+Germinare+Tech)." alt="Banner Animado Isabelly" style="border-radius: 25px; box-shadow: 0 0 60px rgba(255, 0, 127, 1), inset 0 0 30px rgba(255, 182, 193, 0.8); border: 5px solid #FF1493; padding: 30px; margin-bottom: 25px;">
   
   <p style="color: #F8F8F8; font-family: 'Consolas', monospace; font-size: 1.6em; text-shadow: 0 0 10px #FF1493, 0 0 20px #FF007F; letter-spacing: 1px;">
     // Criando o Futuro, Linha por Linha de Código \\
   </p>
 </div>
-
----
 
 <br>
 
@@ -38,19 +36,18 @@ Atualmente, estou focada em desenvolvimento front-end e explorando novas tecnolo
   </tr>
 </table>
 
----
-
 <br>
 
 <div align="center" style="padding: 30px; background-color: #1a1a1a; border-radius: 15px; box-shadow: 0 6px 20px rgba(255, 0, 127, 0.3);">
   <h3 style="color: #FF007F; font-size: 2.2em; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 2px;">Estatísticas</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaDaHxra&show_icons=true&theme=dark&line_height=27&hide_border=true&title_color=FF007F&icon_color=FF007F&text_color=F0F0F0&bg_color=0D1117" alt="Estatísticas do GitHub de IsaDaHxra" style="margin: 15px 0; border-radius: 10px; box-shadow: 0 0 15px rgba(255, 0, 127, 0.4);">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaDaHxra&theme=dark&hide_border=true&stroke=FF007F&background=0D1117&currStreakLabel=FF007F&ring=FF007F&sideLabels=F0F0F0&dates=F0F0F0" alt="Sequência de Contribuições de IsaDaHxra" style="margin: 15px 0; border-radius: 10px; box-shadow: 0 0 15px rgba(255, 0, 127, 0.4);">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=IsaDaHxra&show_icons=true&theme=dark&line_height=27&hide_border=true&title_color=FF007F&icon_color=FF007F&text_color=F0F0F0&bg_color=0D1117" alt="Estatísticas do GitHub de IsaDaHxra" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 0, 127, 0.4);">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaDaHxra&theme=dark&hide_border=true&stroke=FF007F&background=0D1117&currStreakLabel=FF007F&ring=FF007F&sideLabels=F0F0F0&dates=F0F0F0" alt="Sequência de Contribuições de IsaDaHxra" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 0, 127, 0.4);">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaDaHxra&layout=compact&theme=dark&hide_border=true&title_color=FF007F&icon_color=FF007F&text_color=F0F0F0&bg_color=0D1117" alt="Linguagens mais usadas" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 0, 127, 0.4);">
+  </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaDaHxra&bg_color=0D1117&color=FF69B4&line=FF007F&point=FFB6C1&area=true&hide_border=true" alt="Gráfico de Atividade de IsaDaHxra" style="width: 90%; max-width: 800px; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 127, 0.5); border: 2px solid #2C3E50; margin-top: 25px;">
 </div>
-
----
 
 <br>
 
@@ -66,18 +63,14 @@ Atualmente, estou focada em desenvolvimento front-end e explorando novas tecnolo
   </p>
 </div>
 
----
-
 <br>
 
 <div align="center" style="padding: 30px; background-color: #1a1a1a; border-radius: 15px; box-shadow: 0 6px 20px rgba(255, 0, 127, 0.3);">
   <h3 style="color: #FF007F; font-size: 2.2em; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 2px;">Projeto em Destaque</h3>
-   <a href="https://www.instagram.com/sinara.oficial/" target="_blank" style="text-decoration: none; margin: 0 15px;">
+   <a href="https://www.instagram.com/sinara.oficial/" target="_blank" style="text-decoration: none; margin: 0 15px;">
       <img width="295" height="242" alt="sinara-teste" src="https://github.com/user-attachments/assets/0174407c-cf19-4762-997c-55a69873f778" />
     </a>
 </div>
-
----
 
 <br>
 
@@ -92,8 +85,6 @@ Atualmente, estou focada em desenvolvimento front-end e explorando novas tecnolo
     </td>
   </tr>
 </table>
-
----
 
 <br>
 
