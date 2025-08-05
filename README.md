@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #000000; padding: 60px 0; border-bottom: 10px solid #FF007F; border-radius: 0 0 40px 40px; box-shadow: 0 20px 60px rgba(255, 0, 127, 0.9);">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&pause=100&color=FF007F&background=000000&center=true&vCenter=true&width=1100&lines=Oii%C3%AA%2C+me+chamo+Isabelly+%3A);Sou+estudante+da+Germinare+Tech;Sou+estudante+da+Germinare+Tech)." alt="Banner Animado Isabelly" style="border-radius: 25px; box-shadow: 0 0 60px rgba(255, 0, 127, 1), inset 0 0 30px rgba(255, 182, 193, 0.8); border: 5px solid #FF1493; padding: 30px; margin-bottom: 25px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&pause=100&color=FF007F&background=000000&center=true&vCenter=true&width=1100&lines=Oii%C3%AA%2C+me+chamo+Isabelly+%3A);Sou+estudante+da+Germinare+Tech;Seja bem-vindo ao meu perfil!!" alt="Banner Animado Isabelly" style="border-radius: 25px; box-shadow: 0 0 60px rgba(255, 0, 127, 1), inset 0 0 30px rgba(255, 182, 193, 0.8); border: 5px solid #FF1493; padding: 30px; margin-bottom: 25px;">
   
   <p style="color: #F8F8F8; font-family: 'Consolas', monospace; font-size: 1.6em; text-shadow: 0 0 10px #FF1493, 0 0 20px #FF007F; letter-spacing: 1px;">
     // Criando o Futuro, Linha por Linha de Código \\
