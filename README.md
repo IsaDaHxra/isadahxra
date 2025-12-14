@@ -79,8 +79,8 @@ Atualmente, estou focada em desenvolvimento front-end e explorando novas tecnolo
     <td style="padding: 30px; text-align: center;">
       <h3 style="color: #FF007F; font-size: 2.5em; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 2px; text-shadow: 0 0 15px rgba(255, 0, 127, 0.9);">Projeto Interdisciplinar: Front-end</h3>
       <div style="width: 100px; height: 3px; background-color: #FF007F; margin: 0 auto 25px auto; border-radius: 5px; animation: highlight-pulse 1.5s infinite alternate;"></div>
-      <p align="justify" style="font-size: 1.2em; color: #E8E8E8; line-height: 1.8; font-family: 'Roboto Mono', monospace; max-width: 800px; margin: 0 auto;">Estou focada no front-end no projeto interdisciplinar Sinara, criando interfaces intuitivas e atraentes com HTML, CSS e um pouco de JavaScript💖.
-        <br><br>Este é um desafio que me permite aplicar lógica e criatividade para desenvolver experiências digitais impactantes.
+      <p align="justify" style="font-size: 1.2em; color: #E8E8E8; line-height: 1.8; font-family: 'Roboto Mono', monospace; max-width: 800px; margin: 0 auto;">Meu foco foi na parte do front-end no projeto interdisciplinar Sinara, criando interfaces intuitivas e atraentes com HTML, CSS e um pouco de JavaScript💖.
+        <br><br>Este foi um desafio que me permitiu aplicar lógica e criatividade para desenvolver experiências digitais impactantes.
       </p>
     </td>
   </tr>
