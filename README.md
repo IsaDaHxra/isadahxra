@@ -54,7 +54,7 @@ Atualmente, estou focada em desenvolvimento front-end e explorando novas tecnolo
 <div align="center" style="padding: 30px; background-color: #1a1a1a; border-radius: 15px; box-shadow: 0 6px 20px rgba(255, 0, 127, 0.3);">
   <h3 style="color: #FF007F; font-size: 2.2em; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 2px;">Conexões</h3>
   <p style="margin-top: 20px;">
-    <a href="mailto:isabelly.hora@germinare.org.br" style="text-decoration: none; margin: 0 15px;">
+    <a href="mailto:isabelly.hora@germinare.org.br" style="text-decoration: none; margin: 0;">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorB=FF007F" alt="Email" style="margin: 8px;">
     </a>
     <a href="https://www.instagram.com/dahoraisa/" target="_blank" style="text-decoration: none; margin: 0 15px;">
@@ -67,9 +67,23 @@ Atualmente, estou focada em desenvolvimento front-end e explorando novas tecnolo
 
 <div align="center" style="padding: 30px; background-color: #1a1a1a; border-radius: 15px; box-shadow: 0 6px 20px rgba(255, 0, 127, 0.3);">
   <h3 style="color: #FF007F; font-size: 2.2em; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 2px;">Projeto em Destaque</h3>
-   <a href="https://www.instagram.com/sinara.oficial/" target="_blank" style="text-decoration: none; margin: 0 15px;">
-      <img width="295" height="242" alt="sinara-teste" src="https://github.com/user-attachments/assets/0174407c-cf19-4762-997c-55a69873f778" />
-    </a>
+<div style="display: flex; justify-content: center; aling-items: center; gap: 50px;">
+        <div style="display: flex; flex-direction: column;">
+            <p style="font-size: 24px; font-weight: bold;"> Sinara </p>
+            <a href="https://www.instagram.com/sinara.oficial/" target="_blank" style="text-decoration: none; margin:0; padding: 0;">
+                <img width="186" height="200" alt="image" src="https://github.com/user-attachments/assets/1ce2c454-c792-47bb-b172-f1cabbc2e001" />
+            </a>
+        </div>
+        <div style="display: flex; flex-direction: column;">
+            <p style="font-size: 24px; font-weight: bold;"> MonitorIA </p>
+            <img width="186" height="200" alt="image" src="https://github.com/user-attachments/assets/53dd32fe-f4dd-4454-b6ba-107051e87015" />
+        </div>
+        <div style="display: flex; flex-direction: column;">
+            <p style="font-size: 24px; font-weight: bold;"> Vértice </p>
+            <img width="186" height="200" alt="image" src="https://github.com/user-attachments/assets/49f95361-594a-4a35-af7b-8b52765eb05c" />
+        </div>
+    </div>
+    
 </div>
 
 <br>
